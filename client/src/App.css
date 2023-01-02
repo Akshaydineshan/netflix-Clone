@@ -1,0 +1,42 @@
+*{
+  margin:0px;
+  color:white;
+}
+.App{
+  background-color: black;
+}
+.banner{
+  color:white;
+  height:460px;
+  object-fit: contain;
+  background-position: center center;
+  padding-top: 130px;
+}
+.banner_Description{
+  width:45rem;
+  padding-top: 1rem;
+  height:80px;
+  font-size:0.8rem;
+  max-width: 360px;
+}
+.nav{
+  width:100%;
+  position:fixed;
+  top:0;
+  padding: 25px;
+  height:25px;
+ 
+  z-index: 1;
+}
+.navBlack{
+  background-color: black;
+}
+.logo{
+  position:fixed;
+  left:20px;
+  width:79px;
+  height:29px;
+  object-fit: contain;
+  font-size: 100px;
+  
+}
